@@ -63,8 +63,7 @@ class user:
 
 
 class acceptors:
-
-	 '''Class containing functions for accepting and validating values properly'''
+	#Class containing functions for accepting and validating values properly
 	def accept_uid():
 		uid = 0
 		try:
