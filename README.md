@@ -1,4 +1,4 @@
-# Railway-Management-System
+# Railway-Ticketing-System
 
 ## Functionalities :
 
