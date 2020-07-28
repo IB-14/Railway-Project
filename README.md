@@ -15,6 +15,8 @@
 Dynamic Cost prediction Using **Machine Learning Algorithms** , which returns costs based on day,month,route,distance,train class and train type
 
 
+The user is shown the entire itenary details before confirming their ticket:
+
 ![Homepage](https://user-images.githubusercontent.com/58564635/85837270-764ddf80-b7b5-11ea-9e41-18325bff4807.png)
 
 
