@@ -17,8 +17,7 @@ Dynamic Cost prediction Using **Machine Learning Algorithms** , which returns co
 
 The user is shown the entire itenary details before confirming their ticket:
 
-![Homepage](https://user-images.githubusercontent.com/58564635/85837270-764ddf80-b7b5-11ea-9e41-18325bff4807.png)
-
+![Homepage](https://user-images.githubusercontent.com/58564635/88635619-81a66a80-d0d5-11ea-933d-785370863f89.png)
 
 ![Homepage](https://user-images.githubusercontent.com/58564635/85837346-86fe5580-b7b5-11ea-838f-90fc96f24512.png)
 
