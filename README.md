@@ -1,13 +1,16 @@
-# Railway-Project
+# Railway-Management-System
 
 ## Functionalities :
 
 -Account creation
+
 -Booking Tickets
+
 -Cheking Confirmation
+
 -Cancellation of Tickets
 
-# Extra Functionality :
+## Extra Functionality :
 
 Dynamic Cost prediction Using **Machine Learning Algorithms** , which returns costs based on day,month,route,distance,train class and train type
 
